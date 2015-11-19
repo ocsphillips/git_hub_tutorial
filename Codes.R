@@ -1,3 +1,5 @@
+data(mtcars)
 names(mtcars)
 dim(mtcars)
-summary(mtcars)
+
+
